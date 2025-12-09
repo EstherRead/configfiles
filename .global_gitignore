@@ -10,3 +10,5 @@ Session.vim
 tags
 
 **.orig
+a.out
+a.out.*
