@@ -12,3 +12,4 @@ tags
 **.orig
 a.out
 a.out.*
+__pycache__/
